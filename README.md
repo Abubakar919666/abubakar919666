@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a junior developer at bestow technology<br>👯 I’m looking to collaborate on basic projects of GENAI.<br>🤝 I’m looking for help to discussing about startups in AI.<br>🌱 I’m currently learning about GENAI and building  LLM models<br>💬 Ask me about Mern Stack development
+🔭 I’m currently Learning some Coding Stuffs<br>👯 I’m looking to collaborate on Nextjs Projects.<br>🤝 I’m looking for help to discussing about startups in AI.<br>🌱 I’m currently learning about GENAI and building  LLM models<br>💬 Ask me about Mern Stack development
 
 
 ## 🌐 Socials:
